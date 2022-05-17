@@ -4,17 +4,13 @@ Flutter Application Name - Trip Helper
 GitHub Repository - [https://github.com/roxy-cym/mobileapp_trip-helper](https://github.com/roxy-cym/mobileapp_trip-helper)
 
 ## Introduction to Application
-
-A brief 200 word explanation of your application and it's use.  Below create a Bibliography to code, tutorial, or plugins you've used in the project. Use this guide
-for citation - [https://www.scribbr.co.uk/referencing/harvard-website-reference/](https://www.scribbr.co.uk/referencing/harvard-website-reference/)
+Trip helper is an app that helps you plan your trip. It has three functions. The first function is to record notes - you can write down your own travel planning, travel diary and other text content to record everything you want to record during the trip; The second function is travel expenses record, which can record the amount of expenses and the categories of expenses to help you manage or control your expenses easily; the third function, which is a checklist, helps you prepare all the things you want to bring before your trip. This app combines three functions, allowing you to easily plan your every trip.
 
 ## Biblography
 
-1. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s). <http://google.com>
+1.   showDateRangePicker function - material library [WWW Document], n.d. . Dart API. URL https://api.flutter.dev/flutter/material/showDateRangePicker.html.  
+2.   country_picker [WWW Document], 2020. . Dart packages. URL https://pub.dev/packages/country_picker.
 
-2. Last name, First initial. (Year published). Title. Edition. (Only include the edition if it is not the first edition) City published: Publisher, Page(s).  <http://google.com>
-
-----
 
 ## Declaration of Authorship
 
